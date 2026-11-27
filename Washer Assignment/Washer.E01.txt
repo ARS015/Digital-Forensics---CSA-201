@@ -1,0 +1,40 @@
+﻿Created By AccessData® FTK® Imager 2.5.3.14 071018
+
+Case Information:
+Case Number: 08-12345
+Evidence Number: AD-08-98
+Unique Description: Drive from Office Computer
+Examiner: Nick Drehel
+Notes: Taken From Office PC
+
+--------------------------------------------------------------
+
+Information for C:\Documents and Settings\Ken\Desktop\Mantooth stuff\Images\Washer\Washer 17:
+
+Physical Evidentiary Item (Source) Information:
+[Drive Geometry]
+ Cylinders: 15
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 250,879
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Mini USB Device
+ Drive Interface Type: USB
+ Source data size: 122 MB
+ Sector count:    250879
+[Computed Hashes]
+ MD5 checksum:    147307d626aa2c090bd6abfe4a9a1909
+ SHA1 checksum:   94fad134e0f51da5c397da008ed5fca97d4c2246
+
+Image Information:
+ Acquisition started:   Mon Mar 10 17:44:32 2008
+ Acquisition finished:  Mon Mar 10 17:44:53 2008
+ Segment list:
+  C:\Documents and Settings\Ken\Desktop\Mantooth stuff\Images\Washer\Washer 17.E01
+
+Image Verification Results:
+ Verification started:  Mon Mar 10 17:44:53 2008
+ Verification finished: Mon Mar 10 17:44:54 2008
+ MD5 checksum:    147307d626aa2c090bd6abfe4a9a1909 : verified
+ SHA1 checksum:   94fad134e0f51da5c397da008ed5fca97d4c2246 : verified
